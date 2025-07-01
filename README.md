@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there !
+### This Github profile is currently under construction 🚧⏳
 <!--
 **LsLct/LsLct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
